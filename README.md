@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musab Al-Bahry</h1>
+
 - 🔭 I’m currently working on [Python sorting algorithms] (https://github.com/musabalbahry/Python-Sorting-Algorithms)
-
 - 🌱 I’m currently learning **Rust 🦀**
-
 - 📫 How to reach me **musabalbahry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
