@@ -18,13 +18,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=2C2255)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2C2255)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=musabalbahry&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=musabalbahry&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2C2255)
