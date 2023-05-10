@@ -7,10 +7,7 @@
 ✉️ &nbsp;You can shoot me an email at musabalbahry@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1QtQw63Na4SbIMQInSqdZSXx6LmUeBMn0/edit?usp=share_link&ouid=117793326070101360141&rtpof=true&sd=true) for more details about me. I'm open to feedback and suggestions!\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
