@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying A-Level Computer Science
+🎓 &nbsp;I'm currently studying A-Level Computer Science\
 ✉️ &nbsp;You can shoot me an email at musabalbahry@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1QtQw63Na4SbIMQInSqdZSXx6LmUeBMn0/edit?usp=share_link&ouid=117793326070101360141&rtpof=true&sd=true) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1QtQw63Na4SbIMQInSqdZSXx6LmUeBMn0/edit?usp=share_link&ouid=117793326070101360141&rtpof=true&sd=true) for more details about me. I'm open to feedback and suggestions!\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
