@@ -19,8 +19,6 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=2C2255)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2C2255)&nbsp;
-![TeX](https://img.shields.io/badge/-Linux-333333?style=flat&logo=TeX&logoColor=2C2255)&nbsp;
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
