@@ -17,7 +17,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=2C2255)
+![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=2C2255)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2C2255)&nbsp;
+![TeX](https://img.shields.io/badge/-Linux-333333?style=flat&logo=TeX&logoColor=2C2255)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
