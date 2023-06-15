@@ -1,5 +1,3 @@
-# Hey there! I'm Musab
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies.\
